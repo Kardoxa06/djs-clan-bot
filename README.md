@@ -1,2 +1,3 @@
 # djs-clan-bot
-Klanlarınız için özel butonlu discord botu
+&cKlanlarınız için özel butonlu discord botu
+Yakında paylaşırım
