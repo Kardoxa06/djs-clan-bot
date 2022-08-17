@@ -1,0 +1,28 @@
+{
+  "name": "bos-altyapi-v13",
+  "version": "3.0.0",
+  "description": "Umut Bayraktar Discord.js v13 Uyumlu Komutsuz Bot Altyapısı!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Umut Bayraktar",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.10.0",
+    "canvacord": "^5.3.0",
+    "captcha-canvas": "^3.1.0",
+    "chalk": "^5.0.1",
+    "croxydb": "^0.0.7",
+    "discord-canvas": "^1.4.1",
+    "discord-modals": "^1.3.7",
+    "discord.js": "^13.6.0",
+    "invite-module": "^1.0.5",
+    "moment": "^2.29.3",
+    "ms": "^2.1.3"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
