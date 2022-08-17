@@ -1,3 +1,2 @@
 # djs-clan-bot
-&cKlanlarınız için özel butonlu discord botu
-Yakında paylaşırım
+Minecraft vesaire gibi oyunlarda olan klanlarınız için özel discord botu editleyip kullanabilirsiniz.
